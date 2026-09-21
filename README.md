@@ -11,6 +11,11 @@ simulator, in order to explore how airlines and OEM performance teams trade
 *Cost Index*).
 
 ---
+## Final verdict on the result
+
+![Ps contour map with optimal climb paths](results/ps_contours.png)
+
+![Mission profile](results/mission_profiles.png)
 
 ## Features
 
