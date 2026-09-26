@@ -11,8 +11,6 @@ simulator!
 ---
 ## Final verdict on the result
 
-![Ps contour map with optimal climb paths](results/ps_contours.png)
-
 To be finished...
 
 ## Features
