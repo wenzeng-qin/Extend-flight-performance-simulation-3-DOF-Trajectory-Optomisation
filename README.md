@@ -6,16 +6,14 @@ fuel-burn integration and an energy-state trajectory optimizer that reproduces t
 classic Rutowski minimum-time-to-climb path, plus a minimum-fuel counterpart.
 
 This project extends a single-segment climb-rate ODE model into a full mission
-simulator, in order to explore how airlines and OEM performance teams trade
-**time vs. fuel** when planning a climb (the same trade captured by an airline's
-*Cost Index*).
+simulator!
 
 ---
 ## Final verdict on the result
 
 ![Ps contour map with optimal climb paths](results/ps_contours.png)
 
-![Mission profile](results/mission_profiles.png)
+To be finished...
 
 ## Features
 
