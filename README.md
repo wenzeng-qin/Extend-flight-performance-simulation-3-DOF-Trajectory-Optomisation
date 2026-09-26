@@ -49,8 +49,6 @@ flight-mission-optimizer/
 │   ├── mission.py         # mission phase state machine
 │   ├── energy_state.py    # Ps computation, Rutowski min-time & min-fuel optimizers
 │   └── plotting.py        # h-V diagrams, trajectory plots, cost index sweep
-├── notebooks/
-│   └── demo.ipynb         # end-to-end walkthrough with plots
 ├── tests/
 │   └── test_breguet.py    # validates integrated fuel burn vs. closed-form Breguet
 ├── requirements.txt
